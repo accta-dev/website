@@ -22,7 +22,7 @@ const HeroSection = () => (
             </Button>
           </a>
           <a href="#servicos">
-            <Button size="lg" variant="outline" className="border-primary-foreground/50 text-primary-foreground hover:bg-primary-foreground/10 text-base font-medium">
+            <Button size="lg" variant="outline" className="border-white text-white bg-white/10 hover:bg-white/20 text-base font-semibold">
               Conheça nossos serviços
             </Button>
           </a>
