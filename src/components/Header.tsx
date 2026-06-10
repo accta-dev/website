@@ -7,7 +7,7 @@ const navLinks = [
   { label: "Serviços", href: "#servicos" },
   { label: "Benefícios", href: "#beneficios" },
   { label: "Como Funciona", href: "#como-funciona" },
-  { label: "Depoimentos", href: "#depoimentos" },
+  
 ];
 
 const Header = () => {
