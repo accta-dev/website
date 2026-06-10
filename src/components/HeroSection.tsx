@@ -15,7 +15,7 @@ const HeroSection = () => (
           Consultoria contábil, fiscal e empresarial com atendimento personalizado e foco em resultados. Mais segurança e inteligência para a gestão da sua empresa.
         </p>
         <div className="flex flex-wrap gap-4">
-          <a href="https://wa.me/5571999629004" target="_blank" rel="noopener noreferrer">
+          <a href="https://wa.me/557135064500" target="_blank" rel="noopener noreferrer">
             <Button size="lg" className="bg-secondary text-secondary-foreground hover:bg-secondary/90 gap-2 text-base font-semibold">
               Fale com um Especialista
               <ArrowRight className="w-5 h-5" />
