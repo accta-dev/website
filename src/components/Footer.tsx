@@ -19,7 +19,7 @@ const Footer = () => (
           <a href="#sobre" className="hover:text-primary-foreground transition-colors">Sobre</a>
           <a href="#servicos" className="hover:text-primary-foreground transition-colors">Serviços</a>
           <a href="#beneficios" className="hover:text-primary-foreground transition-colors">Benefícios</a>
-          <a href="#depoimentos" className="hover:text-primary-foreground transition-colors">Depoimentos</a>
+          <a href="#como-funciona" className="hover:text-primary-foreground transition-colors">Como Funciona</a>
         </nav>
       </div>
 
