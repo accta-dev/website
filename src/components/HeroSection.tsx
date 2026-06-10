@@ -1,6 +1,6 @@
 import { ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import heroImage from "@/assets/hero-meeting.jpg.asset.json";
+import heroImage from "@/assets/hero-meeting.jpg";
 
 const HeroSection = () => (
   <section className="relative bg-hero-gradient text-primary-foreground pt-28 pb-16 md:pt-36 md:pb-24 overflow-hidden">
@@ -30,7 +30,7 @@ const HeroSection = () => (
       </div>
       <div className="hidden md:flex justify-center">
         <img
-          src={heroImage.url}
+          src={heroImage}
           alt="Consultores ACCTA analisando estratégia contábil e financeira"
           width={1920}
           height={1280}
