@@ -10,7 +10,7 @@ const CtaSection = () => (
       <p className="text-primary-foreground/80">
         Entre em contato agora mesmo e descubra como a ACCTA pode ajudar seu negócio a crescer com segurança e inteligência.
       </p>
-      <a href="https://wa.me/5571999629004" target="_blank" rel="noopener noreferrer">
+      <a href="https://wa.me/557135064500" target="_blank" rel="noopener noreferrer">
         <Button size="lg" className="bg-secondary text-secondary-foreground hover:bg-secondary/90 gap-2 text-base font-semibold mt-4">
           Fale com um Especialista
           <ArrowRight className="w-5 h-5" />

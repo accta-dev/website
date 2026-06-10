@@ -39,7 +39,7 @@ const Header = () => {
 
         <div className="hidden lg:flex items-center gap-3">
           <a
-            href="https://wa.me/5571999629004"
+            href="https://wa.me/557135064500"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -73,7 +73,7 @@ const Header = () => {
               </a>
             ))}
             <a
-              href="https://wa.me/5571999629004"
+              href="https://wa.me/557135064500"
               target="_blank"
               rel="noopener noreferrer"
             >
