@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# ACCTA Contabilidade SITE
 
 TODO: Document your project here
